@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // ros_core.h
 // ROS 核心调度器（单例）：维护话题-发布者/订阅者映射，注册、转发、全局关闭
 #ifndef ROS_SIM_ROS_CORE_H

@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // message.h
 // 消息封装：基础字符串消息 + 温湿度复合消息，自动带时间戳
 #ifndef ROS_SIM_MESSAGE_H

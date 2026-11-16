@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // publisher.h
 // 发布者节点：绑定话题，向核心发送消息
 #ifndef ROS_SIM_PUBLISHER_H

@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // exceptions.h
 // 自定义异常体系：节点异常、话题异常、消息异常
 #ifndef ROS_SIM_EXCEPTIONS_H

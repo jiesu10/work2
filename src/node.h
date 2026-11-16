@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // node.h
 // 节点抽象基类：所有发布者/订阅者的父类，继承 enable_shared_from_this
 #ifndef ROS_SIM_NODE_H

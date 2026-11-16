@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // subscriber.h
 // 订阅者节点：订阅话题，收到消息后触发回调
 #ifndef ROS_SIM_SUBSCRIBER_H

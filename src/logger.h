@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 // logger.h
 // 分级日志工具：INFO / WARN / ERROR，同时输出到控制台和日志文件
 #ifndef ROS_SIM_LOGGER_H
